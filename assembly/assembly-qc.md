@@ -1,5 +1,4 @@
 # Assembly Quality Control
-
 Genome assembly quality should be evaluated before downstream
 taxonomic and functional analysis.
 
