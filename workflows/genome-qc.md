@@ -12,7 +12,6 @@ assembly continuity, completeness, and potential contamination.
 5. Compare quality metrics before downstream analysis
 
 ## Example tools
-
 - QUAST
 - BUSCO
 - CheckM2
