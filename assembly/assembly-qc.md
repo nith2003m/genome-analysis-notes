@@ -15,7 +15,6 @@ taxonomic and functional analysis.
 | CheckM2 contamination | Estimates possible contamination |
 
 ## Recommended Tools
-
 - QUAST — assembly statistics
 - BUSCO — conserved gene completeness
 - CheckM2 — genome completeness and contamination
