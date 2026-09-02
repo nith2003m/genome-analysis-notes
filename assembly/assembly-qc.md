@@ -20,7 +20,6 @@ taxonomic and functional analysis.
 - CheckM2 — genome completeness and contamination
 
 
-
 ## Basic Workflow
 ```text
 Assembly
